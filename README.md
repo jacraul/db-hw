@@ -1,2 +1,5 @@
-# db-hw
-My team homework for Database subject
+# Database Subject Homework
+My project for Database subject
+
+# What I had to do?
+I had to do project usin Oracle Apex Database
